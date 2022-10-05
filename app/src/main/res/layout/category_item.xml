@@ -11,6 +11,7 @@
         android:id="@+id/txt_title"
         android:textColor="@color/white"
         android:text="Teste"
+        android:textStyle="bold"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
